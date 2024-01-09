@@ -3,7 +3,7 @@ import React from 'react'
 
 const BoxScreen = () => {
   return (
-    <View style={styles.viewStyle}>
+    <View style={styles.viewStyle}> 
     
     <View style={styles.viewOne}/>
     <View style={styles.viewTwo}/>
